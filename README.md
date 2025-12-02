@@ -33,7 +33,7 @@ Prior to this stage, the dataset was recovered from a corrupted RDS file and aut
 # Executive Summary
 # Insights Deep Dive
 
-**Propofol Measure Outcomes:**
+## **Propofol Measure Outcomes:**
 
 •	**IU HBMH had the highest number of fentanyl orders before propofol rate was >50 mcg/kg/min.** IU HBMH had 24 counts of fentanyl orders for patients before reaching high-dose propofol, compared to 11 at IU HMH and 4 at IU HAH. This suggests a more aggressive opioid-first approach to sedation/analgesia at IU HBMH, which aligns with analgesia-first sedation protocols that prioritize pain control before escalating sedative doses. This pattern may indicate better adherence to multimodal analgesia strategies or differences in patient acuity requiring more aggressive pain management.
 
