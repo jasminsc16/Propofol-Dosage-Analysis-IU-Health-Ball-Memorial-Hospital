@@ -42,7 +42,8 @@ Prior to this stage, the dataset was recovered from a corrupted RDS file and aut
 
 
 
-•	**Most patients were on propofol for less than 10,000 minutes (which is roughly less than a week) with a few higher outliers.**
+•	**Most patients were on propofol for less than 10,000 minutes (which is roughly less than a week) with a few higher outliers.** The median duration was 977 minutes (approximately a little over half of a day), with 40 patients receiving propofol for <7 days. However, 2 patients were close to or exceeded 14 days (20,160 minutes), with the longest duration being 29,125 minutes (approximately 20 days). Shorter propofol durations align with ICU best practices for early sedation cessation and liberation from mechanical ventilation. Extended propofol use beyond 7 days raises concerns about propofol infusion syndrome risk, delayed awakening, and potential ICU-acquired weakness. The outliers warrant investigation. Were these patients with complex medical conditions, difficult-to-wean ventilatory requirements, or cases where alternative sedation strategies should have been considered? Understanding these prolonged cases could inform protocol development for sedation rotation or alternative agent selection.
+
 
 
 
