@@ -28,3 +28,24 @@ Patterns of missingness were then visualized using vis_miss(), and appropriate r
 
 Prior to this stage, the dataset was recovered from a corrupted RDS file and automatically transferred to Excel using an AI-assisted data extraction workflow (Claude), ensuring data integrity and preserving all relevant records for subsequent analysis.
 
+
+
+# Executive Summary
+# Insights Deep Dive
+
+**Propofol Measure Outcomes:**
+
+•	**IU HBMH had the highest number of fentanyl orders before propofol rate was >50 mcg/kg/min.** IU HBMH had 24 counts of fentanyl orders for patients before reaching high-dose propofol, compared to 11 at IU HMH and 4 at IU HAH. This suggests a more aggressive opioid-first approach to sedation/analgesia at IU HBMH, which aligns with analgesia-first sedation protocols that prioritize pain control before escalating sedative doses. This pattern may indicate better adherence to multimodal analgesia strategies or differences in patient acuity requiring more aggressive pain management.
+
+
+•	**Only patients at IU HMH and IU HUH received scheduled pain medications when propofol >50 mcg/kg/min. Rec_pain_med (0) has a higher percent of time on propofol.** 
+
+
+•	**Most patients were on propofol for less than 10,000 minutes (which is roughly less than a week) with a few higher outliers.**
+
+
+
+
+
+
+
