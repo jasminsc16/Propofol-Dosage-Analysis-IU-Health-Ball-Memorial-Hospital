@@ -9,8 +9,6 @@ Insights and recommendations are provided on the following key areas:
 
 • **IU Health Hospitals Comparisons:** An evaluation of propofol and co-administered sedatives across IU Health hospitals to identify system-wide variation.
 
-•	**Co-Administered Sedatives:** An assessment of pain management effectiveness (measured by RASS or CPOT) in conjunction with sedatives such as dexmedetomidine and fentanyl.
-
 •	**Patient Characteristics Analysis:** Evaluation of demographic factors: sex, age, height, and weight.
 
 
@@ -48,6 +46,15 @@ Prior to this stage, the dataset was recovered from a corrupted RDS file and aut
 <img width="1344" height="960" alt="Propofol Outcome Measures Image" src="https://github.com/user-attachments/assets/a2998930-6fe9-422f-bf17-18f7afd4b289" />
 
 
+# **IU Health Hospitals Comparisons:**
+
+•	**IU HBMH has the most patients with high tolerance of opiates.**
+
+
+•	**Propofol was only decreased to <50 mcg/kg/min after ketamine was added or dose increased at IU HBMH. Concurrent propofol & ketamine infusion was not a popular choice at the hospitals.**
+
+
+•	**IU HBMH had the most patients that received concurrent propofol and NMBA infusion.**
 
 
 
