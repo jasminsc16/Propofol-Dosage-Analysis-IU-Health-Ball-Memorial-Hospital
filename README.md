@@ -56,7 +56,7 @@ Prior to this stage, the dataset was recovered from a corrupted RDS file and aut
 
 
 
-•	**IU HBMH had the most patients that received concurrent propofol and NMBA infusion.**
+•	**IU HBMH had the most patients that received concurrent propofol and NMBA infusion.** 13 patients at IU HBMH received concurrent propofol-NMBA infusions, followed by 8 patients at IU HMH and 8 patients at IU HBloomH. Neuromuscular blocking agents (NMBAs) are reserved for the most critically ill patients, typically those with severe ARDS requiring ventilator synchrony, refractory hypoxemia, or elevated intracranial pressure. Adequate deep sedation with propofol is essential during paralysis since patients cannot communicate discomfort or awareness. The higher NMBA use at IU HBMH may indicate either higher patient acuity, more aggressive ARDS management following PROSEVA trial evidence, or differences in mechanical ventilation strategies across facilities. The concentration of NMBA use at IU HBMH raises questions about case mix and patient acuity. Are sicker patients preferentially transferred here, or does the facility have specialized capabilities (ECMO, advanced ventilation modes) attracting complex respiratory failure cases? Additionally, NMBA use requires careful sedation depth monitoring (ideally with processed EEG or BIS monitoring) to prevent awareness during paralysis. Standardization of sedation protocols during NMBA infusions and daily sedation/paralysis interruption trials should be evaluated across all facilities to ensure best practices.
 
 
 
