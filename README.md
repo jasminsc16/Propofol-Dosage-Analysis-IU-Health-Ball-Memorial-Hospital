@@ -62,3 +62,12 @@ Prior to this stage, the dataset was recovered from a corrupted RDS file and aut
 ***Concurrent propofol and ketamine infusion across IU Health Hospitals. This was not a popular choice across the hospitals.***
 <img width="1344" height="960" alt="IU Health Hospitals Comparisons Image" src="https://github.com/user-attachments/assets/be7d7d4a-17cc-45e6-9b9b-bcaa1d8c6c09" />
 
+
+# **Patient Characteristics Analysis:**
+
+•	**Most patients’ weights are evenly distributed between 50 kg (roughly 110 lbs) and 150 kg (roughly 330 lbs). There is an outlier of 48 kg (roughly 105 lbs) and six outliers being higher than 150 kg (330 lbs), two falling in the 200 kg (440 lbs) range (one being treated at IU HBMH).**
+
+•	**Most patients are around 180 cm in height (roughly 5 ft 11in).**
+
+•	**Most patients are between 50 and 70 years old.**
+
