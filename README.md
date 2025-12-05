@@ -48,7 +48,8 @@ Prior to this stage, the dataset was recovered from a corrupted RDS file and aut
 
 # **IU Health Hospitals Comparisons:**
 
-•	**IU HBMH has the most patients with high tolerance of opiates.**
+•	**IU HBMH has the most patients with high tolerance of opiates.** 12.5% of patients at IU HBMH demonstrated high opiate tolerance (defined as “3” in the dataset). High opiate tolerance may reflect differences in patient populations, such as higher rates of chronic pain conditions, substance use disorders, or oncology patients requiring ICU care. This tolerance necessitates higher analgesic doses to achieve adequate pain control and can complicate sedation management, potentially contributing to the higher propofol doses observed at this hospital. The concertation of opiate-tolerant patients at IU HBMH suggests either referral patterns directing complex pain management cases to this facility, or community-level factors affecting the patient demographic. This finding has implications for pharmacy stocking, pain service consultation availability, and staff education on managing tolerance and preventing inadequate analgesia.
+
 
 
 •	**Propofol was only decreased to <50 mcg/kg/min after ketamine was added or dose increased at IU HBMH. Concurrent propofol & ketamine infusion was not a popular choice at the hospitals.**
