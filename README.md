@@ -46,7 +46,7 @@ Prior to this stage, the dataset was recovered from a corrupted RDS file and aut
 <img width="1344" height="960" alt="Propofol Outcome Measures Image" src="https://github.com/user-attachments/assets/a2998930-6fe9-422f-bf17-18f7afd4b289" />
 
 
-# **IU Health Hospitals Comparisons:**
+## **IU Health Hospitals Comparisons:**
 
 •	**IU HBMH has the most patients with high tolerance of opiates.** 12.5% of patients at IU HBMH demonstrated high opiate tolerance (defined as “3” in the dataset). High opiate tolerance may reflect differences in patient populations, such as higher rates of chronic pain conditions, substance use disorders, or oncology patients requiring ICU care. This tolerance necessitates higher analgesic doses to achieve adequate pain control and can complicate sedation management, potentially contributing to the higher propofol doses observed at this hospital. The concertation of opiate-tolerant patients at IU HBMH suggests either referral patterns directing complex pain management cases to this facility, or community-level factors affecting the patient demographic. This finding has implications for pharmacy stocking, pain service consultation availability, and staff education on managing tolerance and preventing inadequate analgesia.
 
@@ -61,7 +61,7 @@ Prior to this stage, the dataset was recovered from a corrupted RDS file and aut
 <img width="1344" height="960" alt="IU Health Hospitals Comparisons Image" src="https://github.com/user-attachments/assets/be7d7d4a-17cc-45e6-9b9b-bcaa1d8c6c09" />
 
 
-# **Patient Characteristics Analysis:**
+## **Patient Characteristics Analysis:**
 
 •	**Most patients’ weights are evenly distributed between 50 kg (roughly 110 lbs) and 150 kg (roughly 330 lbs). There is an outlier of 48 kg (roughly 105 lbs) and six outliers being higher than 150 kg (330 lbs), two falling in the 200 kg (440 lbs) range (one being treated at IU HBMH).** Weight-based dosing is standard practice for propofol and other sedatives, making accurate weight documentation critical. The wide weight distribution (48-200+ kg) presents dosing challenges—lower weight patients may be at higher risk for oversedation at standard doses, while higher-weight patients often require dose adjustments that account for both total body weight and ideal body weight depending on the medication’s pharmacokinetics (how the body interacts with an administered drug over time). Propofol, being lipophilic (easily absorbed in lipids (fats)), has complex distribution in obesity that may necessitate dosing calculations based on adjusted body weight rather than total body weight. The presence of patients in extreme weight categories (both low and high) highlights the need for individualized dosing protocols rather than one-size-fits-all approaches. The higher-weight patients, particularly those exceeding 200 kg, may require specialized equipment, careful hemodynamic (blood flow) monitoring during propofol administration, and potential consultation with pharmacy for optimal dosing strategies. The underweight outlier (48 kg) warrants investigation into whether this represents a malnourished patient or data entry error, as malnutrition can affect drug metabolism and clearance.
 
