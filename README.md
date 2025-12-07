@@ -29,6 +29,9 @@ Prior to this stage, the dataset was recovered from a corrupted RDS file and aut
 
 
 # Executive Summary
+
+This analysis reveals significant variation in sedation practices across IU Health hospitals, with IU HBMH consistently managing a more complex patient population requiring higher opiate doses, advanced sedation strategies (ketamine, NMBAs), and longer propofol durations. The data suggests that scheduled pain medications reduce high dose propofol duration by approximately 60%. Yet, this proactive analgesia approach is underutilized at IU HBMH despite their high opiate-tolerant patient population, suggesting an opportunity for protocol optimization. System-wide, the low adoption of propofol-sparing agents like ketamine (15.2% utilization) and variability in multimodal analgesia practices indicate the need for standardized sedation protocols, pharmacy consultation integration, and staff education to improve patient outcomes while potentially reducing propofol-related complications and costs associated with prolonged sedation.
+
 # Insights Deep Dive
 
 ## **Propofol Measure Outcomes:**
