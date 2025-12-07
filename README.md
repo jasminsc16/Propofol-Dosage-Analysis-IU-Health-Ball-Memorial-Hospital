@@ -85,6 +85,7 @@ This analysis reveals significant variation in sedation practices across IU Heal
 Based on the insights and findings above, I would recommend the Director of Pharmacy Services and the Critical Care Research team to consider the following:
 
 *Propofol Measure Outcomes:*
+
 •	**Scheduled Analgesia Protocol Implementation.** Implement standardized scheduled analgesia protocols across all IU Health hospitals, with particular emphasis at IU HBMH. The Critical Care Research team should develop guidelines for transitioning from PRN (as-needed administration) to scheduled opioid administration when propofol rates exceed 40 mcg/kg/min, and the Director of Pharmacy Services should ensure adequate stock of long-acting opioid formulations and establish pharmacist-driven pain management consultation triggers for patients requiring high-dose propofol.
 
 
@@ -92,6 +93,7 @@ Based on the insights and findings above, I would recommend the Director of Phar
 
 
 *IU Health Hospitals Comparisons:*
+
 •	**Propofol-Sparing Agent Integration and Ketamine Protocol Development.** The Critical Care Research team should develop and pilot an early multimodal sedation protocol that incorporates ketamine at propofol doses of 40-50 mcg/kg/min rather than waiting for escalation beyond 50 mcg/kg/min. The Director of Pharmacy Services should create ketamine infusion order sets with standardized dosing guidelines, stock adequate ketamine supplies across all hospitals, and provide staff education sessions addressing common concerns about emergence reactions and secretion management. Consider establishing IU HBMH as the pilot site given their existing experience with ketamine as a rescue agent.
 
 
@@ -99,5 +101,6 @@ Based on the insights and findings above, I would recommend the Director of Phar
 
 
 *Patient Characteristics Analysis:*
+
 •	**Weight-Based Dosing Protocol Refinement.** The Director of Pharmacy Services should work with the Critical Care Research team to develop and validate weight-stratified propofol dosage guidelines that incorporate adjusted body weight calculations for patients >150 kg and enhanced monitoring parameters for patients <60 kg. Implement mandatory pharmacist consultation for propofol initiation in patients at weight extremes (BMI >40 or <18.5) and establish protocols for processed EEG/BIS monitoring in these populations to objectively assess sedation depth and reduce risks of both undersedation and oversedation.
 
