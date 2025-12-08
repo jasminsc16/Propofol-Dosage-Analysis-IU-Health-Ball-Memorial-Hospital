@@ -104,3 +104,15 @@ Based on the insights and findings above, I would recommend the Director of Phar
 
 •	**Weight-Based Dosing Protocol Refinement.** The Director of Pharmacy Services should work with the Critical Care Research team to develop and validate weight-stratified propofol dosage guidelines that incorporate adjusted body weight calculations for patients >150 kg and enhanced monitoring parameters for patients <60 kg. Implement mandatory pharmacist consultation for propofol initiation in patients at weight extremes (BMI >40 or <18.5) and establish protocols for processed EEG/BIS monitoring in these populations to objectively assess sedation depth and reduce risks of both undersedation and oversedation.
 
+
+
+# Assumptions and Caveats
+
+Throughout the analysis, multiple assumptions were made to manage challenges with the data/dataset. These assumptions and caveats are noted below:
+•	**Assumption 1:** Values marked as “x” or “X” in the dataset represent missing or non-applicable data points rather than a specific categorical value and were treated as such throughout the analysis rather than being imputed or excluded.
+
+
+•	**Assumption 2:** The clinical context and interpretations provided are based on established critical care literature and best practices, but without direct consultation with the IU Health Critical Care Research team, some facility-specific protocols or patient population characteristics may differ from the assumptions made in this analysis.
+
+
+•	**Assumption 3:** The dataset represents a complete and accurate record of sedation practices during the study period, with the understanding that the original data extraction from the corrupted file maintained data integrity and no transcription errors were introduced during the manual extraction process.
