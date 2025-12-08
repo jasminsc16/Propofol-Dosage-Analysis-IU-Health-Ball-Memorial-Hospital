@@ -109,6 +109,7 @@ Based on the insights and findings above, I would recommend the Director of Phar
 # Assumptions and Caveats
 
 Throughout the analysis, multiple assumptions were made to manage challenges with the data/dataset. These assumptions and caveats are noted below:
+
 •	**Assumption 1:** Values marked as “x” or “X” in the dataset represent missing or non-applicable data points rather than a specific categorical value and were treated as such throughout the analysis rather than being imputed or excluded.
 
 
